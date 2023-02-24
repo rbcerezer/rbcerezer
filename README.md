@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rbcerezer/rbcerezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,19 @@ Here are some ideas to get you started:
 ### Olá eu sou o RbCerezer (Rafael Benetti Cerezer) 👋
 - 😄 Pronouns: ele/dele/inhaiii
 
+Artista apaixonado pela tecnologia, em transição de carreira!!
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@proxima_parada)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cerezer-a3615b201/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b.rafa86/)
 
+- ⚡ Fun fact: Sou uma pessoa que sempre procura o "Lado Bom" de tudo, mas claro que também tenho meus dias cinzas (_mas são bem raros! Não se preocupem, vocês quase não irão perceber_). Adoro ler, obter conhecimento, sou muito curioso para saber o porque de muita coisa, AMO parque de diversões e estar com minha familia....Além de estudar....me sinto enriquecendo por dentro!
+
 
 ![Rbcerezer GitHub stats](https://github-readme-stats.vercel.app/api?username=rbcerezer&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbcerezer&layout=compact)](https://github.com/rbcerezer/github-readme-stats)
+
+
 
 ## Conhecimento em Tecnologias
 
