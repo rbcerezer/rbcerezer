@@ -26,8 +26,10 @@ Artista apaixonado pela tecnologia, em transição de carreira!!
 - ⚡ Fun fact: Sou uma pessoa que sempre procura o "Lado Bom" de tudo, mas claro que também tenho meus dias cinzas (_mas são bem raros! Não se preocupem, vocês quase nem irão perceber_). Adoro ler, obter conhecimento, sou muito curioso para saber o porque de muita coisa, AMO parque de diversões e estar com minha familia....Além de estudar....me sinto enriquecendo por dentro!
 
 
-![Rbcerezer GitHub stats](https://github-readme-stats.vercel.app/api?username=rbcerezer&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbcerezer&layout=compact)](https://github.com/rbcerezer/github-readme-stats)
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbcerezer&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rbcerezer&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
