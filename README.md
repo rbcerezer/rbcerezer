@@ -1,59 +1,84 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=1000&lines=Olá%2C+eu+sou+o+Rafael+Cerezer!;Desenvolvedor+Back-End+apaixonado+por+tecnologia!;Explorando+Java%2C+Spring+Boot+e+Inteligência+Artificial."/>
+</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation"/>
+</p>
 
-<!--
-**rbcerezer/rbcerezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Olá eu sou o RbCerezer (Rafael Benetti Cerezer) 👋
-- 😄 Pronouns: ele/dele/inhaiii
+👨‍💻 Desenvolvedor em transição de carreira com background artístico e experiências internacionais.  
+💡 Foco atual em Java, Spring Boot e integração de IA para produtividade.  
+🌎 Apaixonado por criar soluções criativas e funcionais com impacto real.
 
-Artista apaixonado pela tecnologia, em transição de carreira!!
+---
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@proxima_parada)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cerezer-a3615b201/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b.rafa86/)
+### 🛠️ Tecnologias e Ferramentas
 
-- ⚡ Fun fact: Sou uma pessoa que sempre procura o "Lado Bom" de tudo, mas claro que também tenho meus dias cinzas (_mas são bem raros! Não se preocupem, vocês quase nem irão perceber_). Adoro ler, obter conhecimento, sou muito curioso para saber o porque de muita coisa, AMO parque de diversões e estar com minha familia....Além de estudar....me sinto enriquecendo por dentro!
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
+---
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbcerezer&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 📈 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rbcerezer&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rbcerezer&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbcerezer&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
+---
 
+### 🌱 Atualmente Aprendendo
 
-## Conhecimento em Tecnologias
+- 📚 ServiceNow & Desenvolvimento Low-Code
+- ☁️ Cloud Computing com foco em aplicações escaláveis
+- 🤖 IA aplicada com GitHub Copilot e LLMs
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">     
-    
-</div><br/>
+---
 
-Artista apaixonado pela tecnologia em transição de carreira.
+### 🔗 Links Importantes
 
-## Formação e Cursos
+<p align="center">
+  <a href="https://www.linkedin.com/in/rbcerezer" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://vercel.com/rbcerezers-projects" target="_blank">
+    <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-- Pós-Graduando "Tecnologias BackEnd" (Unopar/Anhanguera - 2023/24)
-- Java Developer (DIO + Banco Pan - 2023)
-- Análise e Desenvolvimento de Sistemas (Faculdades Anhanguera - 2022)
-- Modelos de Gestão (Unopar -2022)
-- FrontEnd Developer (SENAI Limeira - 2021)
-- Competência Transversal - TECNOLOGIA DA
-INFORMAÇÃO E COMUNICAÇÃO (SENAI São Paulo - 2020)
+---
+
+### 📌 Repositórios em Destaque
+
+| Projeto | Descrição |
+|--------|------------|
+| [Crachá Virtual – NLW](https://github.com/rbcerezer/cracha-nlw) | Página de crachá interativa criada com HTML, CSS e JS durante o evento da Rocketseat |
+| [Bootcamp Java & IA – DIO/NTT Data](https://github.com/rbcerezer/bootcamp-java-ia) | Repositório com os desafios e projetos desenvolvidos no bootcamp focado em Java e Inteligência Artificial |
+
+---
+
+### 🧠 Fun Facts
+
+- 🎭 Já fui bailarino, coreógrafo e professor de artes!
+- 🌍 Vivi e trabalhei com pessoas de diversas nacionalidades
+- ✨ Trago criatividade e disciplina artística para o mundo da tecnologia
+
+---
+
+### 🐍 GitHub Snake Animation
+
+```html
+<!-- Snake animation -->
+<img src="https://github.com/rbcerezer/rbcerezer/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
